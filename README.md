@@ -1,9 +1,15 @@
-# Getting Started with Create React App
+# Weather Application
+
+
+
+## Project is live at [Weather Application](https://weather-temp-apps.netlify.app/)
+
+![Screenshot_20221115_033055](https://user-images.githubusercontent.com/84763123/201890965-57795cbd-46f6-483d-b951-d54e0d7fecc5.png)
+
+![Screenshot_20221115_033248](https://user-images.githubusercontent.com/84763123/201890982-db21760a-f7d1-4c9e-9c7d-832c27472897.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-## visit to see the project [Weather Application](https://weather-temp-apps.netlify.app/)
 
 ## Available Scripts
 
